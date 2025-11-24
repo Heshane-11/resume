@@ -70,7 +70,7 @@ Power BI + DAX
 ## 📫 Connect With Me
 - **GitHub:** [Heshane-11](https://github.com/Heshane-11)
 - **LinkedIn:** [heshane-garg](https://www.linkedin.com/in/heshane-garg-9b638a28b/)
-- **LeetCode:** [View Profile](https://leetcode.com/u/Heshane_Garg_11/)
+- **LeetCode:** [View Profile](https://leetcode.com/u/Heshane-11/)
 - **Email:** [23129@iiitu.ac.in](mailto:23129@iiitu.ac.in)
 
 ---
